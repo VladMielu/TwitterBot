@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A3rpwBQfMJtp52H9Hbrfu5WvULlSb4FHr6Ay1dXTLHE=",
+  "Source": "TwitterBot",
+  "BasePath": "_content/TwitterBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
